@@ -130,10 +130,6 @@ public class MainActivity extends AppCompatActivity {
             if (habits == null){
                 habits = new ArrayList<Habit>();
             }
-            //AllHabits allHabits = new AllHabits(AddNewHabit.habits);
-            //for (Habit habit :habits) {
-              //  habits.add(habit);
-            //}
 		} catch (IOException e) {
 			//throw new RuntimeException();
 		}
