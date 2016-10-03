@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ting8-HabitTracker</string>
+
+    <string name="subTitle1">Add New Habit</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_new_habit">AddNewHabit</string>
+    <string name="mainTitle">To Do List Of Today</string>
+    <string name="title_activity_show_all_habit">ShowAllHabit</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_habit_detail">HabitDetail</string>
+    <string name="title_activity_date_picker">DatePicker</string>
+    <string name="title_activity_pick_date">PickDate</string>
+</resources>

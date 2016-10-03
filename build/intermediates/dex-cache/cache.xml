@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/cshome/ting8/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/cshome/ting8/cmput301/assign1_aaa/app/build/intermediates/pre-dexed/debug/gson-2.7-e12933429e4d07423640e389e23a78f2fd1201bf.jar" />
+    </item>
+
+</items>
